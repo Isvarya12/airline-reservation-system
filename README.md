@@ -29,6 +29,10 @@ Airline reservation system using Applets, Java, and Java Swing for frontend
    ![image](https://github.com/Isvarya12/airline-reservation-system/assets/90042475/01e05f7d-b468-4309-92b6-cd98fb41adc6)
 
 
+# Login credentails
 
+username : ishu
+password : admin 
+Can be changed in the main code
 
 
